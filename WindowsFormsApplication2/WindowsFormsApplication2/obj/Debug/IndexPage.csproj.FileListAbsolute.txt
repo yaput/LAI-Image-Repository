@@ -1,0 +1,28 @@
+D:\Desktop\LAI\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Desktop\LAI\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Desktop\LAI\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Desktop\LAI\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AuthorCodeImageGalleryVB.resources
+D:\Desktop\LAI\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Desktop\LAI\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Desktop\LAI\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\IndexPage.csproj.GenerateResource.Cache
+D:\Desktop\LAI\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Desktop\LAI\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Desktop\LAI\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\IndexPage.csprojResolveAssemblyReference.cache
+D:\Desktop\LAI V.1.1\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Index.exe.config
+D:\Desktop\LAI V.1.1\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Index.exe
+D:\Desktop\LAI V.1.1\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Index.pdb
+D:\Desktop\LAI V.1.1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AuthorCodeImageGalleryVB.resources
+D:\Desktop\LAI V.1.1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Desktop\LAI V.1.1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Index.Properties.Resources.resources
+D:\Desktop\LAI V.1.1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\IndexPage.csproj.GenerateResource.Cache
+D:\Desktop\LAI V.1.1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Index.exe
+D:\Desktop\LAI V.1.1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Index.pdb
+D:\Desktop\LAI V.1.2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Index.exe.config
+D:\Desktop\LAI V.1.2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Index.exe
+D:\Desktop\LAI V.1.2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Index.pdb
+D:\Desktop\LAI V.1.2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AuthorCodeImageGalleryVB.resources
+D:\Desktop\LAI V.1.2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Desktop\LAI V.1.2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Index.Properties.Resources.resources
+D:\Desktop\LAI V.1.2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\IndexPage.csproj.GenerateResource.Cache
+D:\Desktop\LAI V.1.2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Index.exe
+D:\Desktop\LAI V.1.2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Index.pdb

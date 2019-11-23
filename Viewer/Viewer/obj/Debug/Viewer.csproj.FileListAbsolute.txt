@@ -1,0 +1,28 @@
+D:\Desktop\LAI\Viewer\Viewer\bin\Debug\Viewer.exe.config
+D:\Desktop\LAI\Viewer\Viewer\bin\Debug\Viewer.exe
+D:\Desktop\LAI\Viewer\Viewer\bin\Debug\Viewer.pdb
+D:\Desktop\LAI\Viewer\Viewer\obj\Debug\Viewer.AuthorGallery.resources
+D:\Desktop\LAI\Viewer\Viewer\obj\Debug\Viewer.Form1.resources
+D:\Desktop\LAI\Viewer\Viewer\obj\Debug\Viewer.Properties.Resources.resources
+D:\Desktop\LAI\Viewer\Viewer\obj\Debug\Viewer.csproj.GenerateResource.Cache
+D:\Desktop\LAI\Viewer\Viewer\obj\Debug\Viewer.exe
+D:\Desktop\LAI\Viewer\Viewer\obj\Debug\Viewer.pdb
+D:\Desktop\LAI V.1.1\Viewer\Viewer\bin\Debug\Viewer.exe.config
+D:\Desktop\LAI V.1.1\Viewer\Viewer\bin\Debug\Viewer.exe
+D:\Desktop\LAI V.1.1\Viewer\Viewer\bin\Debug\Viewer.pdb
+D:\Desktop\LAI V.1.1\Viewer\Viewer\obj\Debug\Viewer.csprojResolveAssemblyReference.cache
+D:\Desktop\LAI V.1.1\Viewer\Viewer\obj\Debug\Viewer.AuthorGallery.resources
+D:\Desktop\LAI V.1.1\Viewer\Viewer\obj\Debug\Viewer.Form1.resources
+D:\Desktop\LAI V.1.1\Viewer\Viewer\obj\Debug\Viewer.Properties.Resources.resources
+D:\Desktop\LAI V.1.1\Viewer\Viewer\obj\Debug\Viewer.csproj.GenerateResource.Cache
+D:\Desktop\LAI V.1.1\Viewer\Viewer\obj\Debug\Viewer.exe
+D:\Desktop\LAI V.1.1\Viewer\Viewer\obj\Debug\Viewer.pdb
+D:\Desktop\LAI V.1.2\Viewer\Viewer\bin\Debug\Viewer.exe.config
+D:\Desktop\LAI V.1.2\Viewer\Viewer\bin\Debug\Viewer.exe
+D:\Desktop\LAI V.1.2\Viewer\Viewer\bin\Debug\Viewer.pdb
+D:\Desktop\LAI V.1.2\Viewer\Viewer\obj\Debug\Viewer.AuthorGallery.resources
+D:\Desktop\LAI V.1.2\Viewer\Viewer\obj\Debug\Viewer.Form1.resources
+D:\Desktop\LAI V.1.2\Viewer\Viewer\obj\Debug\Viewer.Properties.Resources.resources
+D:\Desktop\LAI V.1.2\Viewer\Viewer\obj\Debug\Viewer.csproj.GenerateResource.Cache
+D:\Desktop\LAI V.1.2\Viewer\Viewer\obj\Debug\Viewer.exe
+D:\Desktop\LAI V.1.2\Viewer\Viewer\obj\Debug\Viewer.pdb
